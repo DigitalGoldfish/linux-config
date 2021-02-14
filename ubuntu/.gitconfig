@@ -1,0 +1,9 @@
+[http]
+	postBuffer = 100000000
+[core]
+	compression = 0
+[pull]
+	rebase = true
+[user]
+	name = Markus Oehler
+	email = markus@oehler.at
